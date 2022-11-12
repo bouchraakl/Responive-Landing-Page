@@ -1,4 +1,4 @@
-# Atividade Semanal 3 - NetBook
+# Responsive Landing Page - NetBook
 ## Landing Page
 
 - Atividade pensada para ser estruturada em HTML e CSS
