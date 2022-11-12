@@ -1,10 +1,8 @@
 # Responsive Landing Page - NetBook
 ## Landing Page
 
-- Atividade pensada para ser estruturada em HTML e CSS
+- Demo Link : https://grupo09-projeto-integrador.github.io/grupo09-atividade-semanal-3/
 
-- **A landing page com 8 seções contempla a apresentação de uma rede social ficticia.**
-
-_Segue prototipo de alta fidelidade:_
+- High Fidelity Prototype :
 
 ![Netbook-Social - Atividade semanal 3](https://user-images.githubusercontent.com/79486623/200146345-61f23a7b-78ed-43c3-b17d-ebd4cbfbffb8.png)
